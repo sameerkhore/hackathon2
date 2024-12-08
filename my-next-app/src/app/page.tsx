@@ -1,7 +1,7 @@
 
 import { DiscountItem } from "./component/Discountitems";
 import { FeaturedProducts } from "./component/Feature";
-import { HeroSection } from "./component/Herosection";
+import HeroSection  from "./component/Herosection";
 import { LatestProducts } from "./component/Latest";
 import { LatestBlog } from "./component/Latestblog";
 import { Newsletter } from "./component/Newsletter";
