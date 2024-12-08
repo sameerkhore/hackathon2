@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button"
 import Image from "next/image"
 
-export function HeroSection() {
+export default function HeroSection() {
   return (
     <section className="relative bg-gray-50 ">
       <div className="container flex min-h-[600px] items-center py-12 ml-12 mt-12">
